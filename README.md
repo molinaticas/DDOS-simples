@@ -7,6 +7,12 @@ um tipo de ataque de negação de serviço (DoS), enviando um grande número de 
 
 - Vale ressaltar que isso é um protótipo. Ele será a base da base pro que será a ferramenta final.
 
+- Código 
+<div style="display: inline_block"><br>
+   <img align="center" alt="foto-teste" src="https://media.discordapp.net/attachments/1216774284471570473/1240432389948444794/image.png?ex=66468a2f&is=664538af&hm=34c7eab336f50442ef581240a3d67d6bfc93185067781cd424e8d93164530978&=&format=webp&quality=lossless"
+</div> 
+
+  >Imagem do código na shell
   * Este código em Python parece ser uma implementação de um ataque de negação de serviço (DoS) do tipo HTTP flood. Vou explicar cada parte do código:
 Importações:
 
@@ -65,11 +71,6 @@ Entrada do usuário:
 
 
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="foto-teste" src="https://media.discordapp.net/attachments/1216774284471570473/1240432389948444794/image.png?ex=66468a2f&is=664538af&hm=34c7eab336f50442ef581240a3d67d6bfc93185067781cd424e8d93164530978&=&format=webp&quality=lossless"
-</div> 
-
-  >Imagem do código na shell
 
 - instalação: 
   * git clone https://github.com/molinaticas/DDOS-simples.git
