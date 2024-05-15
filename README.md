@@ -1,18 +1,20 @@
 # Net-crusher
 
-## Introdução 
+### Introdução 
 
 - NetCrusher é um código de ataque Dos simples, sendo utilizado como base para uma ferramenta que negará Serviço na Camada de Aplicação. Esse Código realiza um ataque de Flood HTTP,
 um tipo de ataque de negação de serviço (DoS), enviando um grande número de solicitações HTTP GET para um servidor alvo.
 
 - Vale ressaltar que isso é um protótipo. Ele será a base da base pro que será a ferramenta final.
 
-- Código 
+### Código 
 <div style="display: inline_block"><br>
    <img align="center" alt="foto-teste" src="https://media.discordapp.net/attachments/1216774284471570473/1240432389948444794/image.png?ex=66468a2f&is=664538af&hm=34c7eab336f50442ef581240a3d67d6bfc93185067781cd424e8d93164530978&=&format=webp&quality=lossless"
 </div> 
 
   >Imagem do código na shell
+
+### Explicação
   * Este código em Python parece ser uma implementação de um ataque de negação de serviço (DoS) do tipo HTTP flood. Vou explicar cada parte do código:
 Importações:
 
@@ -72,7 +74,7 @@ Entrada do usuário:
 
 
 
-- instalação: 
+### instalação: 
   * git clone:
 ```python
 import socket
@@ -95,10 +97,10 @@ for i in range(500):
     thread.start()
 ```
 
-- COMO USAR:
+### COMO USAR:
   * python3 NetCrusher
 
-- DEMONSTRAÇÃO: 
+### DEMONSTRAÇÃO: 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gif" src="https://cdn.discordapp.com/attachments/1141095761069752330/1240441549414993961/Video_sem_titulo.gif?ex=664692b7&is=66454137&hm=10154f0bd484bc5a1fa1c2cff432144ae1f3253edabce67f9e651bff61460b63&"
