@@ -74,7 +74,7 @@ Entrada do usuário:
 
 
 ### instalação: 
-  * git clone:
+  * git clone: https://github.com/molinaticas/DOS-simples/blob/main/NetCrusher.py
 ```python
 import socket
 import threading
