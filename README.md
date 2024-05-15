@@ -33,10 +33,9 @@ Entrada do usuário:
       port = 80
 ```
 
-
 - Aqui, o código solicita ao usuário que insira o endereço IPv4 do alvo. A porta é definida como 80, que é a porta padrão para tráfego HTTP.
 
-  * Função
+- Função
  
 ```python
       http_flood:
